@@ -1,5 +1,12 @@
-<h1 align="center"><img src="asset/logo_left.jpg" align="center" width="5%"><strong> SensorLLM</strong><img src="asset/logo_right.png" align="center" width="5%"></h1>
-<h1 align="center"><strong> Human-Intuitive Alignment of Multivariate Sensor Data with LLMs for Activity Recognition</strong></h1>
+<h1 align="center">
+  <img src="asset/logo_left.jpg" align="center" width="5%">
+  <strong>SensorLLM</strong>
+  <img src="asset/logo_right.png" align="center" width="5%">
+</h1>
+<h1 align="center"><strong>Aligning Large Language Models with Motion Sensors for Human Activity Recognition</strong></h1>
+<h3 align="center">
+  EMNLP 2025 Main Conference
+</h3>
   <p align="center">
     <a href='https://scholar.google.com/citations?user=EVOzBF4AAAAJ&hl=en' target='_blank'>Zechen Li</a><sup>1</sup>&emsp;&emsp;
     <a href='https://scholar.google.com/citations?user=250tnREAAAAJ&hl=en' target='_blank'>Shohreh Deldari</a><sup>1</sup>&emsp;&emsp;
@@ -154,7 +161,7 @@ If you find this repository useful for your research, please cite our paper:
 
 ```
 @misc{li2025sensorllm,
-      title={SensorLLM: Human-Intuitive Alignment of Multivariate Sensor Data with LLMs for Activity Recognition}, 
+      title={SensorLLM: Aligning Large Language Models with Motion Sensors for Human Activity Recognition}, 
       author={Zechen Li and Shohreh Deldari and Linyao Chen and Hao Xue and Flora D. Salim},
       year={2025},
       eprint={2410.10624},
