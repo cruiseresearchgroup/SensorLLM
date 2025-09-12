@@ -181,3 +181,5 @@ This work is under the <a rel="license" href="http://creativecommons.org/license
 ## 📩 Contact
 
 If you have any questions or suggestions, feel free to contact Zechen at `zechen.li(at)unsw(dot)edu(dot)au`.
+
+<img align="right" height="100px" src="asset/unsw_logo.png">
