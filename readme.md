@@ -173,10 +173,15 @@ If you find this repository useful for your research, please cite our paper:
 
 ## 📄 License
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
-<br />
-This work is under the <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
+This work is licensed under the 
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+  Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)
+</a>.  
+The source code is released under the 
+[MIT License](https://opensource.org/licenses/MIT).  
+
+Please refer to the official repositories of any baseline methods included in this project for their respective license terms.
 
 ## 📩 Contact
 
