@@ -160,14 +160,18 @@ See [`./sensorllm/data/utils.py`](./sensorllm/data/utils.py) for all available p
 If you find this repository useful for your research, please cite our paper:
 
 ```
-@misc{li2025sensorllm,
-      title={SensorLLM: Aligning Large Language Models with Motion Sensors for Human Activity Recognition}, 
-      author={Zechen Li and Shohreh Deldari and Linyao Chen and Hao Xue and Flora D. Salim},
-      year={2025},
-      eprint={2410.10624},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2410.10624}, 
+@inproceedings{li-etal-2025-sensorllm,
+    title = "{S}ensor{LLM}: Aligning Large Language Models with Motion Sensors for Human Activity Recognition",
+    author = "Li, Zechen  and
+      Deldari, Shohreh  and
+      Chen, Linyao  and
+      Xue, Hao  and
+      Salim, Flora D.",
+    booktitle = "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
+    year = "2025",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.emnlp-main.19/",
+    pages = "354--379",
 }
 ```
 
