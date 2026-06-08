@@ -22,6 +22,13 @@
     </a>
   </p>
 
+## 📢 News
+- **05/2026:** Excited to release our latest work [**AnyMo**](https://baiyuchen.com/project/AnyMo), a comprehensive framework for wearable motion understanding, covering synthetic IMU generation, geometry-aware pre-training, motion-language alignment, data resources, and a new [benchmark](https://huggingface.co/datasets/CRUISEResearchGroup/AnyMo-Bench).
+
+- **05/2026:** Excited to share [**ZARA**](https://arxiv.org/abs/2508.04038) — **Z**ero-training **A**ctivity **R**easoning **A**gents, a training-free, evidence-grounded LLM agent framework for motion time-series reasoning — accepted as an **ACL 2026 Oral** paper!
+
+- **04/2026:** Excited to share [**COMODO**](https://github.com/cruiseresearchgroup/COMODO), a framework for **Cross-Modal Video-to-IMU Distillation** for efficient egocentric human activity recognition, accepted to **IMWUT / UbiComp 2026**!
+
 
 ## 🌟 Overview
 
@@ -53,7 +60,7 @@ To apply SensorLLM to other datasets, please refer to the code and configuration
 ### Sensor-Language QA Pairs Generation
 We provide two example notebooks to generate QA pairs for aligning sensor time-series data with human-intuitive text:
 - [`mhealth_stage1.ipynb`](./mhealth_stage1.ipynb): Generates QA pairs for Stage 1 by aligning single-channel sensor segments with trend-based natural language descriptions.
-- [`mhealth_stage2.ipynb`](./mhealth_stage1.ipynb): Generates statistical information text for Stage 2, performing HAR classification using multi-channel sensor data.
+- [`mhealth_stage2.ipynb`](./mhealth_stage2.ipynb): Generates statistical information text for Stage 2, performing HAR classification using multi-channel sensor data.
 
 You can also customize or extend the QA templates in these notebooks to generate more diverse types of sensor–language QA pairs for your own use cases.
 
